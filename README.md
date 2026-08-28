@@ -1,13 +1,13 @@
 # AgriMind: An Agentic Multi-AI Advisory Ecosystem for Smallholder Farmers
 
 ## Team
-- [Name] – [ID Number]
-- [Name] – [ID Number]
-- [Name] – [ID Number]
-<!-- Add all team members here -->
+- K. Anusha – 2420030549
+- P. Abhinaya – 2420030309
+- Anupama B - 2420030575
+  
 
 ## Supervisor
-Dr. Srikanth Cherukuvada
+Dr. K. Venkateswari
 
 ## Abstract
 Smallholder farmers often lack timely, personalized access to crop guidance,
@@ -49,8 +49,8 @@ pattern).
 
 ### Installation
 ```bash
-git clone <repo-url>
-cd <repo-name>
+git clone <https://github.com/Kodalianushagit/KLH-CSE-26-27-T20-AgriMind-AI.git>
+cd <KLH-CSE-26-27-T20-AgriMind-AI>
 docker-compose up --build
 ```
 
